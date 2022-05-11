@@ -1,0 +1,12 @@
+.Name{
+    color: red;
+    background-color: green;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+
+}
+img{
+    height: 500px;
+    width: 500px;
+}
